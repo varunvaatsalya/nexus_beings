@@ -26,3 +26,9 @@ This project integrates **YOLO (You Only Look Once)** for traffic management and
    ```bash
    git clone https://github.com/your-repo/traffic-women-safety.git
    ```
+
+### App Activity
+<img src="https://github.com/user-attachments/assets/a3ab6dd0-352f-461e-8288-403a1909c3fb" height="400px" width="auto" />
+<img src="https://github.com/user-attachments/assets/eff06f33-1c9f-47e9-bdb0-74debf69c696" height="400px" width="auto" />
+<img src="https://github.com/user-attachments/assets/e49fefce-8174-46b0-aaf1-1b134e8ab5a6" height="400px" width="auto" />
+
