@@ -2,9 +2,7 @@
 
 This project integrates **YOLO (You Only Look Once)** for traffic management and **MediaPipe** for gesture-based women safety detection. It is designed to efficiently monitor traffic violations and detect distress gestures to enhance safety measures.  
 
-![image](https://github.com/user-attachments/assets/2d92c195-1e92-4133-ad3c-12795586ba33)
-![Uploading image.png…]()
-
+![image](https://github.com/user-attachments/assets/d06cba21-5268-4c9c-91c6-7106c7885c56)
 
 ## ✨ Features  
 
